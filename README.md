@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-A results-oriented Computer Science final year student with a strong foundation in **data engineering** and **business intelligence**. Demonstrated expertise in building and automating data infrastructure using **GCP**, **Azure**, **Terraform**, and **Docker**. Experienced in constructing scalable real-time and batch data pipelines with **Apache Spark**, **Apache Kafka**, **dbt**, and **Airflow**. Proven ability to improve operational efficiency by 20% at PT Bank Central Asia, with strong skills in transforming data into actionable insights using **Looker Studio** and **Tableau**.
+A results-oriented Computer Science final year student with a strong foundation in **data engineering** and **business intelligence**. Demonstrated expertise in building and automating data infrastructure using **AWS**, **GCP**, **Azure**, **Terraform**, and **Docker**. Experienced in constructing scalable real-time and batch data pipelines with **Apache Spark**, **Apache Kafka**, **dbt**, and **Airflow**. Proven ability to improve operational efficiency by 20% at PT Bank Central Asia, with strong skills in transforming data into actionable insights using **Looker Studio** and **Tableau**.
 
 ### 🎓 Education
 - **Bachelor of Computer Science** - Bina Nusantara University (GPA: 3.62/4.00)
@@ -34,47 +34,44 @@ A results-oriented Computer Science final year student with a strong foundation 
 ## 🛠️ Technical Skills
 
 ### ☁️ Cloud & Big Data
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### 🗄️ Data Engineering & Warehousing
-![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure Synapse](https://img.shields.io/badge/Azure_Synapse-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Data Lake](https://img.shields.io/badge/Data_Lake-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Redshift](https://img.shields.io/badge/Amazon_Redshift-872C_24?style=for-the-badge&logo=amazon-redshift&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 
 ### 💾 Databases
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
 
 ### 🐍 Programming & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
 
 ### 📊 Visualization & BI
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 
 ### 🛠️ Development & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ### 🔄 Data Integration & Streaming
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
@@ -82,6 +79,15 @@ A results-oriented Computer Science final year student with a strong foundation 
 ---
 
 ## 🎯 Featured Projects
+
+### ⚽ Champions League Data Platform on AWS EKS
+**Tech Stack:** `AWS EKS` `Kubernetes` `Docker` `Apache Airflow (MWAA)` `PySpark` `S3` `Redshift` `Terraform` `Kustomize` `GitHub Actions` `Tableau`
+
+- 🏗️ **Architected a production-grade data platform** on AWS, using Terraform to provision a secure VPC, EKS cluster, S3 data lake, MWAA environment, and Redshift data warehouse.
+- 🚢 **Developed a complete CI/CD pipeline** with GitHub Actions to automatically build, scan, and deploy 4 containerized microservices (Ingestion, Quality, Transformation, Export) to EKS.
+- ⚙️ **Orchestrated the end-to-end data workflow** with Apache Airflow, using KubernetesPodOperator to dynamically run data processing tasks as jobs on the EKS cluster.
+- ✨ **Implemented a layered data lakehouse** with PySpark jobs transforming raw data from Bronze (raw JSON) → Silver (cleaned Parquet) → Gold (aggregated tables), and loading it into a Redshift star schema.
+- 📈 **Delivered actionable insights** through Tableau dashboards, providing real-time analytics on team performance, player statistics, and competition standings.
 
 ### 🛒 End to End E-Commerce Data Platform on Google Cloud
 **Tech Stack:** `Google Cloud Platform` `Terraform` `BigQuery` `Apache Airflow` `dbt` `Looker Studio`
@@ -98,13 +104,6 @@ A results-oriented Computer Science final year student with a strong foundation 
 - 🔄 Developed a containerized Python producer (Docker) to stream live API data into Apache Kafka
 - ⚡ Utilized Apache Airflow (Cloud Composer) to schedule, execute, and monitor the Spark processing job, creating a resilient and automated data workflow
 - 📊 Seamlessly processed streaming data analytics and delivered live operating metrics and team performance insights
-
-### 🏎️ Formula1 Racing Analytics Platform
-**Tech Stack:** `PySpark` `Azure Data Lake` `Azure Databricks` `SQL Server` `Power BI`
-
-- 🏗️ Implemented modern data modeling workflows using PySpark and Spark SQL to process and aggregate F1 racing data
-- 🗃️ Established a scalable Data Lakehouse architecture, applying dimensional modeling concepts to ensure data integrity with ACID transactions
-- 📊 Designed and delivered interactive Tableau dashboards providing in-depth analytics on driver performance, team performance, and lap time comparisons
 
 ---
 
