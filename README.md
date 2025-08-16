@@ -148,7 +148,7 @@ I'm always interested in collaborating on data engineering projects, discussing 
 
 📧 **Email:** ida.adiputra@outlook.com  
 🔗 **LinkedIn:** [linkedin.com/in/idabaguspurwa](https://www.linkedin.com/in/idabaguspurwa/)  
-🌐 **Portfolio:** [idabaguspurwa.vercel.app](https://idabaguspurwa.vercel.app/)  
+🌐 **Portfolio:** [idabaguspurwa.com](https://idabaguspurwa.com/)  
 📍 **Location:** Kabupaten Tangerang, Indonesia
 
 ---
