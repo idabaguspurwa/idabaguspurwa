@@ -38,7 +38,7 @@ print(f"Currently {bagus.current_status} and loving every pipeline! 🚀")
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect!-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/idabaguspurwa/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Check_It_Out!-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://idabaguspurwa.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Check_It_Out!-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](https://idabaguspurwa.com)
 [![Email](https://img.shields.io/badge/Email-Say_Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:ida.adiputra@outlook.com)
 
 <img src="https://komarev.com/ghpvc/?username=idabaguspurwa&style=for-the-badge&color=blueviolet" alt="Profile Views" />
@@ -102,9 +102,6 @@ secret_weapons:
   - "Stakeholder whispering abilities 💬"
 ```
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=idabaguspurwa&repo=bca-efficiency-improvement&theme=react&bg_color=20232a&title_color=61dafb&text_color=ffffff&icon_color=61dafb" />
-</div>
 
 ---
 
@@ -113,7 +110,7 @@ secret_weapons:
 <div align="center">
 
 ### 🛡️ Choose Your Weapon
-*Level: Senior Data Engineer* 🏆
+*Level: Junior Data Engineer* 🏆
 
 </div>
 
@@ -405,12 +402,6 @@ communication_style: "🎯 Direct, Clear, Results-Oriented"
 
 </div>
 
-<div align="center">
-
-### 📈 **Contribution Graph**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=idabaguspurwa&bg_color=1a1b27&color=00D9FF&line=00D9FF&point=00D9FF&area=true&hide_border=true" alt="Contribution Graph" />
-
-</div>
 
 ---
 
@@ -455,7 +446,7 @@ communication_style: "🎯 Direct, Clear, Results-Oriented"
 </a>
 </td>
 <td align="center" width="25%">
-<a href="https://idabaguspurwa.vercel.app/">
+<a href="https://idabaguspurwa.com">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&style=plastic&labelColor=FF5722" />
 <br><b>🌐 Portfolio</b><br>
 <sub>Deep dive into projects</sub>
@@ -495,7 +486,7 @@ status = current_mission()
 
 ### 💫 ***"Turning data into insights, one pipeline at a time!"***
 
-<img src="https://media.giphy.com/media/3o7abAHdYvZdBNnGZq/giphy.gif" width="100" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100" />
 
 </div>
 
